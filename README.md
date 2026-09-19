@@ -28,7 +28,7 @@ An interactive Power BI dashboard designed to analyze mobile sales performance, 
 
 ## 📊 Dashboard
 
-![Mobile Sales Dashboard](screenshots/dashboard.png)
+![Mobile Sales Dashboard](screenshots/Dashboard.png)
 
 ## 📂 Project Files
 
